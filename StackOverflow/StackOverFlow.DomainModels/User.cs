@@ -20,6 +20,6 @@ namespace StackOverFlow.DomainModels
 
         public string Mobile { get; set; }
 
-        public string isAdmin { get; set; }
+        public bool isAdmin { get; set; }
     }
 }
